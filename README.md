@@ -8,7 +8,6 @@ For 8 years I have been building on the JVM: Android apps, Kotlin Multiplatform,
 
 **[Passly](https://github.com/fedchuk/passly-server)**: a multi-tenant SaaS backend for restaurants.
 Kotlin · Spring Boot 4 · PostgreSQL · Spring Security (JWT + sessions) · transactional outbox with Kafka · Testcontainers · CI/CD to Heroku.
-[Live demo](https://passly-8ece774580f7.herokuapp.com) · [API docs](https://passly-8ece774580f7.herokuapp.com/swagger-ui.html)
 
 ### 🛠 Tech
 
